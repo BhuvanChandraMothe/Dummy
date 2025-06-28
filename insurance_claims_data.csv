@@ -1,0 +1,26 @@
+claim_id,policy_id,claimant_name,claim_date,claim_amount,policy_status,risk_category,validation_errors,is_valid,processed_at
+CLM723000,POL82898,Claimant_928,2024-08-21,43726.65,Suspended,Low,"Policy not active, Claim amount exceeds threshold",False,2025-05-20 03:59:57.856765
+CLM917789,POL86959,Claimant_862,2024-05-26,31143.84,Expired,Medium,Policy not active,False,2025-05-20 03:59:57.856777
+CLM738080,POL93973,Claimant_343,2024-08-16,15707.62,Active,Low,,True,2025-05-20 03:59:57.856785
+CLM919228,POL76159,Claimant_154,2024-11-05,48675.24,Expired,Medium,"Policy not active, Claim amount exceeds threshold",False,2025-05-20 03:59:57.856794
+CLM154536,POL71460,Claimant_592,2024-09-13,14534.93,Suspended,High,Policy not active,False,2025-05-20 03:59:57.856801
+CLM487667,POL27721,Claimant_722,2024-08-10,43176.39,Expired,High,"Policy not active, Claim amount exceeds threshold",False,2025-05-20 03:59:57.856808
+CLM645642,POL40770,Claimant_317,2024-07-14,12932.62,Expired,High,Policy not active,False,2025-05-20 03:59:57.856816
+CLM158180,POL93488,Claimant_530,2025-03-25,12526.93,Suspended,Medium,Policy not active,False,2025-05-20 03:59:57.856829
+CLM491810,POL81951,Claimant_626,2025-01-17,48019.5,Suspended,Medium,"Policy not active, Claim amount exceeds threshold",False,2025-05-20 03:59:57.856841
+CLM485302,POL45679,Claimant_866,2024-10-18,36745.63,Expired,Medium,Policy not active,False,2025-05-20 03:59:57.856852
+CLM191882,POL14634,Claimant_500,2024-10-01,31735.35,Expired,Low,Policy not active,False,2025-05-20 03:59:57.856863
+CLM159176,POL75824,Claimant_250,2024-05-30,12982.52,Expired,High,Policy not active,False,2025-05-20 03:59:57.856871
+CLM358836,POL69077,Claimant_262,2024-11-25,36614.12,Suspended,Medium,Policy not active,False,2025-05-20 03:59:57.856878
+CLM252259,POL90463,Claimant_758,2024-12-05,10303.43,Expired,High,Policy not active,False,2025-05-20 03:59:57.856885
+CLM337990,POL92634,Claimant_845,2024-10-18,29201.21,Suspended,Low,Policy not active,False,2025-05-20 03:59:57.856892
+CLM982441,POL72309,Claimant_785,2024-07-06,20633.28,Suspended,Low,Policy not active,False,2025-05-20 03:59:57.856899
+CLM918215,POL28956,Claimant_284,2025-02-27,14578.84,Suspended,Low,Policy not active,False,2025-05-20 03:59:57.856906
+CLM310985,POL94205,Claimant_599,2024-08-06,20092.85,Active,Low,,True,2025-05-20 03:59:57.856913
+CLM526788,POL13644,Claimant_802,2024-10-30,25038.62,Suspended,Low,Policy not active,False,2025-05-20 03:59:57.856921
+CLM205947,POL73118,Claimant_912,2025-02-21,14379.81,Suspended,Medium,Policy not active,False,2025-05-20 03:59:57.856931
+CLM100283,POL40645,Claimant_159,2025-02-06,5866.82,Suspended,High,Policy not active,False,2025-05-20 03:59:57.856938
+CLM105758,POL58135,Claimant_627,2024-05-30,36217.41,Expired,Low,Policy not active,False,2025-05-20 03:59:57.856945
+CLM367847,POL81420,Claimant_397,2025-02-05,18726.09,Active,High,,True,2025-05-20 03:59:57.856952
+CLM998756,POL72080,Claimant_194,2025-03-18,2861.0,Suspended,Medium,Policy not active,False,2025-05-20 03:59:57.856959
+CLM267778,POL33333,Claimant_504,2024-10-24,40222.06,Active,Low,Claim amount exceeds threshold,False,2025-05-20 03:59:57.856967
